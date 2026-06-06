@@ -17,7 +17,7 @@ The objective is to reconstruct the entire yield curve utilizing only the 3-Mont
 
 ## Performance
 - **Baseline Out-of-Sample $R^2$**: ~0.803
-- **CIR++ Out-of-Sample $R^2$**: ~0.871 (Successfully meets the > 0.85 target criteria)
+- **CIR++ Out-of-Sample $R^2$**: ~0.871 (> 0.85)
 
 ## Dependencies
 - `numpy`
